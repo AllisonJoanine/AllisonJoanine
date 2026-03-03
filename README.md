@@ -56,18 +56,13 @@
 *Clique nos nomes dos projetos para acessar os repositórios no GitHub*
 
 ---
+## 📊 GitHub Analytics
 
-### :chart_with_upwards_trend: My GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/0d7c6f/allisonjoanine" alt="Allison's GitHub chart" width="90%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allisonjoanine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Allison's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonjoanine&layout=compact&theme=tokyonight&hide_border=true" alt="Allison's Top Languages" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allisonjoanine&theme=tokyonight" alt="Allison's GitHub Streak" width="500"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allisonjoanine&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy" width="500"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=allisonjoanine&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+</p>
